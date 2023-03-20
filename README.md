@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Banner](https://raw.githubusercontent.com/grech-ca/grech-ca/master/GitHub%20Readme%20Banner.png)
+
 <!--
 **grech-ca/grech-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
