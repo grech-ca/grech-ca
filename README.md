@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Banner](https://raw.githubusercontent.com/grech-ca/grech-ca/master/GitHub%20Readme%20Banner.png)
 
 <!--
