@@ -1,4 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/grech-ca/grech-ca/master/GitHub%20Readme%20Banner.svg)
+
+[![LinkedIn](https://raw.githubusercontent.com/grech-ca/grech-ca/master/LinkedIn.svg)](https://www.linkedin.com/in/grech-ca/) [![Telegram](https://raw.githubusercontent.com/grech-ca/grech-ca/master/Telegram.svg)](t.me/grech_ca) [![Email](https://raw.githubusercontent.com/grech-ca/grech-ca/master/Email.svg)](mailto:grech.code@gmail.com) [![Banner](https://raw.githubusercontent.com/grech-ca/grech-ca/master/devto.svg)](https://dev.to/grech_ca)
 <!--
 **grech-ca/grech-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
