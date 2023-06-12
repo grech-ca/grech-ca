@@ -1,9 +1,17 @@
 ![Banner](https://raw.githubusercontent.com/grech-ca/grech-ca/master/GitHub%20Readme%20Banner.svg)
 
-[![LinkedIn](https://raw.githubusercontent.com/grech-ca/grech-ca/master/LinkedIn.svg)](https://www.linkedin.com/in/grech-ca/)
-[![Telegram](https://raw.githubusercontent.com/grech-ca/grech-ca/master/Telegram.svg)](t.me/grech_ca)
-[![Email](https://raw.githubusercontent.com/grech-ca/grech-ca/master/Email.svg)](mailto:grech.code@gmail.com)
-[![Banner](https://raw.githubusercontent.com/grech-ca/grech-ca/master/devto.svg)](https://dev.to/grech_ca)
+<a href="https://www.linkedin.com/in/grech-ca/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/grech-ca/grech-ca/master/LinkedIn.svg" alt="LinkedIn" />
+</a>
+<a href="https://t.me/grech_ca" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/grech-ca/grech-ca/master/Telegram.svg" alt="Telegram" />
+</a>
+<a href="mailto:grech.code@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/grech-ca/grech-ca/master/Email.svg" alt="Email" />
+</a>
+<a href="https://dev.to/grech_ca" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/grech-ca/grech-ca/master/devto.svg" alt="DevTo" />
+</a>
 
 # Hi, my name's Mike
 
