@@ -15,7 +15,7 @@
 
 # Hi, my name's Mike
 
-👨🏻‍💻 Meticulous frontend developer with 4 years of experience
+👨🏻‍💻 Meticulous frontend developer with 5 years of experience
 
 ✨ My benefits:
 - Architecture development experience
