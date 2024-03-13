@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Meticulous frontend developer with 6 years of experience
 
-✨ My benefits:
+✨ My superpowers:
 - Architecture development experience
 - Irresistible desire to improve an ideal user experience
 - Strive to develop perfect developer experience
