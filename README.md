@@ -1,5 +1,3 @@
-# Hi, my name's Mike
-
 👨🏻‍💻 Meticulous frontend developer with 6 years of experience
 
 ✨ My superpowers:
