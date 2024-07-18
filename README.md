@@ -1,4 +1,4 @@
-👨🏻‍💻 Meticulous frontend developer with 6 years of experience
+👨🏻‍💻 Meticulous frontend developer with 4 years of experience
 
 ✨ My superpowers:
 - Architecture development experience
